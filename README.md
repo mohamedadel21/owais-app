@@ -26,7 +26,7 @@ write in the terminal
 
 2-npx expo start
 
-**how to use the app 
+**how to use the app**
 
 1- open signin screen
 
